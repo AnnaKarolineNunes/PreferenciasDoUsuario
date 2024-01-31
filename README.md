@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto visa coletar e salvar os dados preenchidos pelo usuario, podendo assim, ser aplicado a qualquer nessidade em que seja necessario salvar os dados no proprio dispositivo. Tudo isso é possivel por meio da classe SharedPreferences
+Este projeto visa coletar e salvar os dados preenchidos pelo usuario, podendo assim, ser aplicado a qualquer necessidade em que seja necessario salvar os dados no proprio dispositivo. Tudo isso é possivel por meio da classe SharedPreferences
 
 ## Capturas de Tela
 
